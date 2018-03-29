@@ -1,0 +1,10 @@
+com\sqli\demoMVC\controller\ProduitController.class
+com\sqli\demoMVC\dao\impl\UserDAOMock.class
+com\sqli\demoMVC\constants\TypeDeProduit.class
+com\sqli\demoMVC\dao\UserDAO.class
+com\sqli\demoMVC\service\impl\ProduitServiceImpl.class
+com\sqli\demoMVC\controller\UtilisateurControler.class
+com\sqli\demoMVC\dao\impl\ProduitDAOMock.class
+com\sqli\demoMVC\dao\ProduitDAO.class
+com\sqli\demoMVC\model\Produit.class
+com\sqli\demoMVC\service\ProduitService.class
